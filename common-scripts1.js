@@ -12,8 +12,8 @@ $(document).ready(function(){
 	/* activate sidebar */
 	$('#sidebar').affix({
 		offset: {
-			top: 101,
-			bottom: 101
+			top: 99,
+			bottom: 99
 		}
 	});
 
